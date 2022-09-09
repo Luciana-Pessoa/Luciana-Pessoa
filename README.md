@@ -1,6 +1,9 @@
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-## Eu sou a Luciana Pessoa, perfil destinado a conteúdo de programação e tecnologia!💻
+## Eu sou a Luciana, perfil destinado a conteúdo de programação e tecnologia!!
+ <h2 align='center'>
+  <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff">
+  </h2>
 
 - 💻 Sou Desenvolvedora de Projetos.
 - 👩‍🎓 Graduação: TI.
@@ -16,7 +19,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<div> <a href="https://instagram.com/eulucianapp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
+ <a href="https://instagram.com/eulucianapp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 <br>
 
@@ -24,6 +28,3 @@
 
 <br>
  
- <div>
-  <img align="center" alt="Pixel-Art" width="100%" src="https://github.com/AnaProgramando/AnaProgramando/blob/1abca3c99b5e79e7d3887d75d484642f2e574f26/aa.gif"/>
-</div>
