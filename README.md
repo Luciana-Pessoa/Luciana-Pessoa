@@ -6,7 +6,7 @@
   </h2>
 
 - 💻 Sou Desenvolvedora de Projetos.
-- 👩‍🎓 Graduação: TI.
+- 👩‍🎓 Estudante de TI.
 - 👩‍🔧 Manutenção de Computadores.
 - 👩‍🏫 Estudando para me tornar Desenvolvedora Full Stack (Frontend e Backend)
 - 👩‍🚀 Apaixonada por Tecnologia, Desenvolvimento, Aprendizado Contínuo e Criatividade.
