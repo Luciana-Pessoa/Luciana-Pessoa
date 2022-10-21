@@ -6,12 +6,12 @@
   </h2>
 
 - 💻 Sou Desenvolvedora de Projetos.
-- 👩‍🎓 Estudante de TI.
+- 👩‍🎓 Graduanda em TI.
 - 👩‍🔧 Manutenção de Computadores.
-- 👩‍🏫 Estudando para me tornar Desenvolvedora Full Stack (Frontend e Backend)
+- 👩‍🏫 Estudando para me tornar Desenvolvedora Full Stack.
 - 👩‍🚀 Apaixonada por Tecnologia, Desenvolvimento, Aprendizado Contínuo e Criatividade.
 - 🤝 Disponível para colaborar em projetos e ideias inovadoras e disruptivas.
-- ❤️ Quando não estou programando, você pode me encontrar estudando, e passando um tempo em família.
+- ❤️ paixao por codar
 
 ### Linguagens
 
