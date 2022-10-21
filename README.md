@@ -9,9 +9,9 @@
 - 👩‍🎓 Graduanda em TI.
 - 👩‍🔧 Manutenção de Computadores.
 - 👩‍🏫 Estudando para me tornar Desenvolvedora Full Stack.
-- 👩‍🚀 Apaixonada por Tecnologia, Desenvolvimento, Aprendizado Contínuo e Criatividade.
+- 👩‍🚀 Apaixonada por Tecnologia.
 - 🤝 Disponível para colaborar em projetos e ideias inovadoras e disruptivas.
-- ❤️ paixao por codar
+- ❤️ Paixao por codar.
 
 ### Linguagens
 
