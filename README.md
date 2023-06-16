@@ -24,14 +24,14 @@ const whoAmI = {
   
   <ul>
     <li>💻 I'm currently studying web development with a focus on JavaScript/PHP ecosystem and all about docker and stuffs</li>
-    <li>👩‍🎓 Pronouns to use with me: he/his</li>
+    <li>👩‍🎓 Pronouns to use with me: she/they</li>
     <li>📩 If you prefer, you can send me an email at this address: lupessoadeveloper@gmail.com</li>
   </ul>
   
   <div align="center">
     <a href="https://instagram.com/luciana.developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/pedrohenrique-machado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://app.rocketseat.com.br/me/pedro-henrique-machado-ferreira-1578580474" target="_blank"><img src="https://img.shields.io/badge/-Rocketseat-blueviolet?style=for-the-badge" target="_blank"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Rocketseat-blueviolet?style=for-the-badge" target="_blank"></a>
   </div>
 </div>
 
