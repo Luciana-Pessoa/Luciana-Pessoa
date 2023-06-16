@@ -1,8 +1,8 @@
 ```javascript
 const whoAmI = {
   name: "Luciana Pessoa",
-  am: Dev,
-  graduation: "Graduate and Development",
+  am: self-taught,
+  graduation: "technology",
   job: "Fullstack Developer with PHP & ReactJS",
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [
@@ -15,7 +15,7 @@ const whoAmI = {
    ✅ "Getting my first job as a JavaScript dev",
    ✅ "❤️ Passion for coding...",
    ✅ "Impacting the world through technology",
-   ✅"Be happy"
+   ✅ "Be happy"
   ]
 }
 ```
