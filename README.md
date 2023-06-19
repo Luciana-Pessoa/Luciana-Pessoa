@@ -19,7 +19,7 @@ const whoAmI = {
 }
 ```
 <div>
-  <h2 align="center">More about me... <img src="https://c.tenor.com/l1Ry9iPpuOQAAAAi/fun-fact-dazzle4rare.gif" alt="Hello GIF" width="120px" height="80px"/></h2>
+  <h2 align="center">More about me...</h2>
   
   <ul>
     <li>✅ I'm currently studying web development with a focus on JavaScript/PHP ecosystem and all about docker and stuffs</li>
