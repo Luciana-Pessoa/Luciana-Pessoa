@@ -47,14 +47,3 @@ const whoAmI = {
     <img align="center" alt="Pedro-Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-<hr>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phenrimachado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <br> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phenrimachado&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div align="center">
-  <h1>Thank you, and come back soon! <img src="./src/thanks.gif" alt="Thank you gif" height="100" width="120" ></h1>
-</div>
