@@ -12,7 +12,7 @@ const whoAmI = {
   ],ASDASFASDFSADF
   currentCity: "MG",
   ambitions: [.....]654
-   ✅ "❤️ Passion for coding..(...)",65
+   ✅ "❤️ Passion for coding..(...)",
    ✅ "Impacting the world through technology",
    ✅ "Be happy"
   ]PO
