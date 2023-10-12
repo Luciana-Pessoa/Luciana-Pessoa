@@ -1,6 +1,6 @@
 ```javascript 
 const whoAmI = {
-  name: "Luciana Pessoa",
+  name: "Luciana Pessoa",huigukg
   am: "self-taught",FSD558
   graduation: "Software Developer", 
   job: "Fullstack Developer with PHP & ReactJS",
