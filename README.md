@@ -3,17 +3,17 @@ const whoAmI = {
   name: "Luciana Pessoa",
   am: "self-taught",
   graduation: "Software Developer", 
-  job: "Fullstack Developer with PHP & ReactJS",54561
+  job: "Fullstack Developer with PHP & ReactJS",
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
-  hobbies: [9849859852ghkgh
+  hobbies: [
     "Spend energy with my pet",
     "Consume content about technology and innovations❤️",
     " I like to do maintenance on machines and electronics👩‍🔧‍"61952652
   ],ASDAS
   currentCity: "MG",
-  ambitions: [.....]8728
-   ✅ "❤️ Passion for coding..(...)",hukhjkjk
-   ✅ "Impacting the world through technology",22222
+  ambitions: [.....]
+   ✅ "❤️ Passion for coding..(...)",
+   ✅ "Impacting the world through technology",
    ✅ "Be happy"
   ]PO
 }
