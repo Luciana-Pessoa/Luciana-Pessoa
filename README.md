@@ -8,8 +8,8 @@ const whoAmI = {
   hobbies: [
     "Spend energy with my pet",
     "Consume content about technology and innovations❤️",
-    " I like to do maintenance on machines and electronics👩‍🔧‍"61952652
-  ],ASDAS
+    " I like to do maintenance on machines and electronics👩‍🔧‍"
+  ],
   currentCity: "MG",
   ambitions: [.....]
    ✅ "❤️ Passion for coding..(...)",
