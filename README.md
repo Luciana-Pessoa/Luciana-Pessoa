@@ -4,11 +4,11 @@ const whoAmI = {
   am: "self-taught",
   graduation: "Software Developer", 
   job: "Fullstack Developer with PHP & ReactJS",
-  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",uskxkskxnxns
+  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",uskxkskxnxnsdjdghjdhgjdgh
   hobbies: [
     "Spend energy with my pet",
     "Consume content about technology and innovations❤️",
-    " I like to do maintenance on machines and electronics👩‍🔧‍"546464
+    " I like to do maintenance on machines and electronics👩‍🔧‍"546464dhgjdghj
   ],
   currentCity: "MG",
   ambitions: [.....]
