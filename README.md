@@ -18,10 +18,10 @@ const whoAmI = {
   ]PO
 }
 ```
-<div>
-  <h2 align="center">More about me...</h2>
+<div>dfghdfgh
+  <h2 align="center">More about me...</h2>dfghdfgjdgj
   
-  <ul>
+  <ul>dhjdghjdghjdghj
     <li>✅ I'm currently studying web development with a focus on JavaScript/PHP ecosystem and all about docker and stuffs</li>
     <li>✅ Pronouns to use with me: she/they</li>
     <li>✅ If you prefer, you can send me an email at this address: lupessoadeveloper@gmail.com</li>
