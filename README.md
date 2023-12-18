@@ -18,7 +18,7 @@ const whoAmI = {
   ]PO
 }
 ```
-<div>dfghdfgh
+<div>
   <h2 align="center">More about me...</h2>
   
   <ul>dhjdghjdghjdghj
