@@ -19,7 +19,7 @@ const whoAmI = {
 }
 ```
 <div>dfghdfgh
-  <h2 align="center">More about me...</h2>dfghdfgjdgj
+  <h2 align="center">More about me...</h2>
   
   <ul>dhjdghjdghjdghj
     <li>✅ I'm currently studying web development with a focus on JavaScript/PHP ecosystem and all about docker and stuffs</li>
