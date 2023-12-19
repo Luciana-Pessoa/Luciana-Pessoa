@@ -8,18 +8,18 @@ const whoAmI = {
   hobbies: [
     "Spend energy with my pet",
     "Consume content about technology and innovations❤️",
-    " I like to do maintenance on machines and electronics👩‍🔧‍"546464dhgjdghj
+    " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],
   currentCity: "MG",
-  ambitions: [.....]frfgh
+  ambitions: [.....]
    ✅ "❤️ Passion for coding..(...)",
    ✅ "Impacting the world through technology",
    ✅ "Be happy"
   ]PO
 }
 ```
-<div>
-  <h2 align="center">More about me...</h2>
+<div>dfghdfgh
+  <h2 align="center">More about me...</h2>dfghdfgjdgj
   
   <ul>dhjdghjdghjdghj
     <li>✅ I'm currently studying web development with a focus on JavaScript/PHP ecosystem and all about docker and stuffs</li>
