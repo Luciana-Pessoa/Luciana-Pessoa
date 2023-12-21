@@ -1,27 +1,27 @@
 ```javascript 
 const whoAmI = {
   name: "Luciana Pessoa",
-  am: "self-taught",6464
+  am: "self-taught",
   graduation: "Software Developer", 
-  job: "Fullstack Developer with PHP & ReactJS",1465
-  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
+  job: "Fullstack Developer with PHP & ReactJS",
+  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",uskxkskxnxnsdjdghjdhgjdgh
   hobbies: [
-    "Spend energy with my pet",5441
+    "Spend energy with my pet",
     "Consume content about technology and innovations❤️",
-    " I like to do maintenance on machines and electronics👩‍🔧‍"
+    " I like to do maintenance on machines and electronics👩‍🔧‍"546464dhgjdghj
   ],
   currentCity: "MG",
   ambitions: [.....]
    ✅ "❤️ Passion for coding..(...)",
    ✅ "Impacting the world through technology",
-   ✅ "Be happy"
+   ✅ "Be happy"dhfif
   ]PO
 }
 ```
-<div>dfghdfgh
-  <h2 align="center">More about me...</h2>dfghdfgjdgj
+<div>
+  <h2 align="center">More about me...</h2>
   
-  <ul>dhjdghjdghjdghj
+  <ul>
     <li>✅ I'm currently studying web development with a focus on JavaScript/PHP ecosystem and all about docker and stuffs</li>
     <li>✅ Pronouns to use with me: she/they</li>
     <li>✅ If you prefer, you can send me an email at this address: lupessoadeveloper@gmail.com</li>
