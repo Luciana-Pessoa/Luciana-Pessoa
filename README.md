@@ -1,7 +1,7 @@
 ```javascript 
 const whoAmI = {
   name: "Luciana Pessoa",
-  am: "self-taught",54642
+  am: "self-taught",
   graduation: "Software Developer", 
   job: "Fullstack Developer with PHP & ReactJS",
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",6544
