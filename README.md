@@ -16,7 +16,7 @@ const whoAmI = {
    ✅ "Impacting the world through technology",
    ✅ "Be happy"
   ]PO
-}isfkskckd
+}
 ```
 <div>
   <h2 align="center">More about me...</h2>
