@@ -1,22 +1,22 @@
 ```javascript 
 const whoAmI = {
   name: "Luciana Pessoa",
-  am: "self-taught",SDFSDFFGSFDG65654
-  graduation: "Software Developer", SDFGSDFG
+  am: "self-taught",
+  graduation: "Software Developer", 
   job: "Fullstack Developer with PHP & ReactJS",
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",XCVXCVXCV
-  hobbies: [54646464
-    "Spend energy with my pet",SDFGSDFGSDFG
+  hobbies: [
+    "Spend energy with my pet",
     "Consume content about technology and innovations❤️",
-    " I like to do maintenance on machines and electronics👩‍🔧‍"464654
+    " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],
   currentCity: "MG",
-  ambitions: [.....]ddggrdhhtggxidjf
+  ambitions: [.....]
    ✅ "❤️ Passion for coding..(...)",
    ✅ "Impacting the world through technology",
-   ✅ "Be happy"jdifoeof
+   ✅ "Be happy"ficjfig
   ]PO
-}isfkskckd
+}
 ```
 <div>
   <h2 align="center">More about me...</h2>
@@ -26,7 +26,7 @@ const whoAmI = {
     <li>✅ Pronouns to use with me: she/they</li>
     <li>✅ If you prefer, you can send me an email at this address: lupessoadeveloper@gmail.com</li>
   </ul>
-  
+  djf
   <div align="center">
     <a href="https://instagram.com/luciana.developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
