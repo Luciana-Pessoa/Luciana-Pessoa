@@ -10,8 +10,8 @@ const whoAmI = {
     "Consume content about technology and innovations❤️",
     " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],
-  currentCity: "MG",eunfr
-  ambitions: [.....]kriejcjr
+  currentCity: "MG",eunfrxgmdgjdy
+  ambitions: [.....]
    ✅ "❤️ Passion for coding..(...)",
    ✅ "Impacting the world through technology",
    ✅ "Be happy"ficjfig
