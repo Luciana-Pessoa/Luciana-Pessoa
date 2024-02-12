@@ -8,7 +8,7 @@ const whoAmI = {54
   hobbies: [
     "Spend energy with my pet",65465465465
     "Consume content about technology and innovations❤️",
-    " I like to do maintenance on machines and electronics👩‍🔧‍"654654654
+    " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],
   currentCity: "MG",
   ambitions: [.....]165165165
