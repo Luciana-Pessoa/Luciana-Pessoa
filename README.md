@@ -1,5 +1,5 @@
 ```javascript 
-const whoAmI = {54
+const whoAmI = {
   name: "Luciana Pessoa",
   am: "self-taught",
   graduation: "Software Developer", 
