@@ -6,12 +6,12 @@ const whoAmI = {
   job: "Fullstack Developer with PHP & ReactJS",
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [
-    "Spend energy with my pet",65465465465
+    "Spend energy with my pet",65465
     "Consume content about technology and innovations❤️",
     " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],
-  currentCity: "MG",
-  ambitions: [.....]165165165
+  currentCity: "MG",ficuf
+  ambitions: [.....]
    ✅ "❤️ Passion for coding..(...)",
    ✅ "Impacting the world through technology",654
    ✅ "Be happy"
