@@ -14,7 +14,7 @@ const whoAmI = {
   ambitions: [.....]
    ✅ "❤️ Passion for coding..(...)",
    ✅ "Impacting the world through technology",
-   ✅ "Be happy"cjdivisofvdvcfhhgtvt
+   ✅ "Be happy"
   ]msjeixjd
 }
 ```
