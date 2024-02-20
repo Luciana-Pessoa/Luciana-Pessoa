@@ -1,15 +1,15 @@
 ```javascript 
 const whoAmI = {
   name: "Luciana Pessoa",
-  am: "self-taught",fhgdgh
+  am: "self-taught",
   graduation: "Software Developer", 
   job: "Fullstack Developer with PHP & ReactJS",
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
-  hobbies: [dhdhdghdgh
-    "Spend energy with my pet",dhdhgh
+  hobbies: [
+    "Spend energy with my pet",
     "Consume content about technology and innovations❤️",
-    " I like to do maintenance on machines and electronics👩‍🔧‍"dhdhdghg
-  ],mnk.b.
+    " I like to do maintenance on machines and electronics👩‍🔧‍"
+  ],
   currentCity: "MG",
   ambitions: [.....]
    ✅ "❤️ Passion for coding..(...)",
