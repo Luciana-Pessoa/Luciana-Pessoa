@@ -12,7 +12,7 @@ const whoAmI = {
   ],
   currentCity: "MG",odofiekf
   ambitions: [.....]
-   ✅ "❤️ Passion for coding..(...)",
+   ✅ "❤️ Passion for coding..(...)",xksic
    ✅ "Impacting the world through technology",
    ✅ "Be happy"
   ]
