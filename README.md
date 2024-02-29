@@ -17,7 +17,6 @@ const whoAmI = {
    ✅ "Be happy"
   ]
 }
-```
 <div>
   <h2 align="center">More about me...</h2>
   16161
