@@ -1,6 +1,6 @@
 ```javascript NN
 const whoAmI = {
-  name: "Luciana Pessoa",dfsdfsdf
+  name: "Luciana Pessoa",
   am: "self-taught",
   graduation: "Software Developer", 64454
   job: "Fullstack Developer with PHP & ReactJS",NNNsdfsdf
