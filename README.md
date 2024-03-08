@@ -4,7 +4,7 @@ const whoAmI = {
   am: "self-taught",
   graduation: "Software Developer", 
   job: "Fullstack Developer with PHP & ReactJS",NNNsdfsdf
-  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",4654
+  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [dfsdfsdf
     "Spend energy with my pet",
     "Consume content about technology and innovations❤️",sdfsdf
