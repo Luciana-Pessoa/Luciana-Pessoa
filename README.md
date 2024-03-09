@@ -1,17 +1,17 @@
 ```javascript NN
 const whoAmI = {
-  name: "Luciana Pessoa",
+  name: "Luciana Pessoa",6416
   am: "self-taught",
-  graduation: "Software Developer", 
-  job: "Fullstack Developer with PHP & ReactJS",
-  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
+  graduation: "Software Developer", 646464
+  job: "Fullstack Developer with PHP & ReactJS",NNN
+  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",4654
   hobbies: [
     "Spend energy with my pet",
     "Consume content about technology and innovations❤️",
     " I like to do maintenance on machines and electronics👩‍🔧‍"
-  ],
+  ],rhtht546
   currentCity: "MG",
-  ambitions: [.....]
+  ambitions: [.....]xodo
    ✅ "❤️ Passion for coding..(...)",
    ✅ "Impacting the world through technology",
    ✅ "Be happy"
