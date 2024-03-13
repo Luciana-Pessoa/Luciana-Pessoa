@@ -15,7 +15,7 @@ const whoAmI = {
    ✅ "❤️ Passion for coding..(...)",
    ✅ "Impacting the world through technology",
    ✅ "Be happy"
-  ]dhfhjf
+  ]
 }
 <div>
   <h2 align="center">More about me...</h2>
