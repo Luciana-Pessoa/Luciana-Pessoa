@@ -33,7 +33,7 @@ const whoAmI = {
   </div>
 </div>
 
-<div align="center">cx
+<div align="center">
   <h2>Languages and Techs</h2>
     <img align="center" alt="Pedro-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Pedro-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
