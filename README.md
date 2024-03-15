@@ -25,7 +25,6 @@ const whoAmI = {
     <li>✅ Pronouns to use with me: she/they</li>
     <li>✅ If you prefer, you can send me an email at this address: lupessoadeveloper@gmail.com</li>
   </ul>
-  djffkgkrkr
   <div align="center">
     <a href="https://instagram.com/luciana.developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
