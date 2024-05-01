@@ -11,7 +11,7 @@ const whoAmI = {
     " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],
   currentCity: "MG",
-  ambitions: [xxxxx
+  ambitions: [xxxxxxxx
     ✅"Getting my first job as a JavaScript dev",
     "❤️ Passion for coding...",
     "Impacting the world through technology",
