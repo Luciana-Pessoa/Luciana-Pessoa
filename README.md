@@ -1,7 +1,7 @@
 ```javascript
 const whoAmI = {
   name: "Luciana Pessoa",
-  am: Dev,
+  am: Dev,cxxx
   graduation: "Graduate and Development",
   job: "Fullstack Developer with PHP & ReactJS",
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
