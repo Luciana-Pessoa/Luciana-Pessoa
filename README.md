@@ -9,7 +9,7 @@ const whoAmI = {
     "Spend energy with my dog",
     "Consume content about games, technology and innovations❤️",
     " I like to do maintenance on machines and electronics👩‍🔧‍"
-  ],disicjiuydodid
+  ],
   currentCity: "MG",hih
   ambitions: [
     ✅"Getting my first job as a JavaScript dev",
