@@ -10,7 +10,7 @@ const whoAmI = {
     "Consume content about games, technology and innovations❤️",
     " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],
-  currentCity: "MG",sieid
+  currentCity: "MG",sieidzje
   ambitions: [die
     ✅"Getting my first job as a JavaScript dev",
     "❤️ Passion for coding...",
