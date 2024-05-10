@@ -3,7 +3,7 @@ const whoAmI = {dsdsd
   name: "Luciana Pessoa",ssf
   am: Dev,
   graduation: "Graduate and Development",
-  job: "Fullstack Developer with PHP & ReactJS",
+  job: "Fullstack Developer with PHP & ReactJS"dfdf,
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [
     "Spend energy with my dog",654
