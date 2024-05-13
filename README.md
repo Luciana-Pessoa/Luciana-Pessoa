@@ -15,7 +15,7 @@ const whoAmI = {
     ✅"Getting my first job as a JavaScript dev",
     "❤️ Passion for coding...",
     "Impacting the world through technology",
-    ✅"Be happy"disis
+    ✅"Be happy"
   ]
 }
 ```
