@@ -19,7 +19,7 @@ const whoAmI = {
   ]
 }
 ```
-<div>difc
+<div>
   <h2 align="center">More about me... <img src="https://c.tenor.com/l1Ry9iPpuOQAAAAi/fun-fact-dazzle4rare.gif" alt="Hello GIF" width="120px" height="80px"/></h2>
   
   <ul>
