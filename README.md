@@ -7,10 +7,10 @@ const whoAmI = {
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [
     "Spend energy with my dog",SDFSDF
-    "Consume content about games, technology and innovations❤️",SDFSDF
+    "Consume content about games, technology and innovations❤️",
     " I like to do maintenance on machines and electronics👩‍🔧‍"
-  ],
-  currentCity: "MG",d
+  ],dieic
+  currentCity: "MG",
   ambitions: [
     ✅"Getting my first job as a JavaScript dev",
     "❤️ Passion for coding...",
