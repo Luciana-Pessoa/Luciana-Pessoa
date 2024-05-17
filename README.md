@@ -10,7 +10,7 @@ const whoAmI = {
     "Consume content about games, technology and innovations❤️",
     " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],dieic
-  currentCity: "MG",
+  currentCity: "MG",cev
   ambitions: [
     ✅"Getting my first job as a JavaScript dev",
     "❤️ Passion for coding...",
