@@ -3,7 +3,7 @@ const whoAmI = {
   name: "Luciana Pessoa",
   am: Dev,
   graduation: "Graduate and Development",
-  job: "Fullstack Developer with PHP & ReactJS"v
+  job: "Fullstack Developer with PHP & ReactJS"
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [
     "Spend energy with my dog",
