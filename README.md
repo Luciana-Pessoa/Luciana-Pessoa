@@ -59,3 +59,5 @@ const whoAmI = {
 <div align="center">
   <h1>Thank you, and come back soon! <img src="./src/thanks.gif" alt="Thank you gif" height="100" width="120" ></h1>
 </div>
+
+
