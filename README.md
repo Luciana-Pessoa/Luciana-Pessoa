@@ -14,7 +14,6 @@ const whoAmI = {
   ambitions: [
     
     
-    
     ✅"Getting my first job as a JavaScript dev",
     "❤️ Passion for coding...",
     "Impacting the world through technology",
