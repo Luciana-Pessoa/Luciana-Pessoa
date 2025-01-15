@@ -41,4 +41,3 @@ const whoAmI = {
     <img align="center" alt="Pedro-Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-
