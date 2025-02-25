@@ -17,7 +17,6 @@ const whoAmI = {
     "Impacting the world through technology",
     ✅"Be happy"
   ]
-
 }
 ```
 <div>
