@@ -12,7 +12,6 @@ const whoAmI = {
   ],
   
   
-
   
   
   currentCity: "MG",
