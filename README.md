@@ -12,7 +12,7 @@ const whoAmI = {
   ],
   
 
-  
+
   
   currentCity: "MG",
   ambitions: [
