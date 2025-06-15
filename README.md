@@ -20,7 +20,6 @@ const whoAmI = {
     ✅"Be happy"
   ]
 }
-
 ```
 <div>
   <div align="center">
