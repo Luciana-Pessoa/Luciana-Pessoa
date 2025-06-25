@@ -12,6 +12,7 @@ const whoAmI = {
   ],
 
 
+
   currentCity: "MG",
   ambitions: [
     ✅"Getting my first job as a JavaScript dev",
